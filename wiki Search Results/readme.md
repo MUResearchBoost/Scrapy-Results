@@ -1,4 +1,4 @@
-1003.csv is the result file.
+928_6.csv is the result file.
 
 categories.txt is the file which contains all the categories of facutly on https://engineering.missouri.edu/academics/faculty/.
 
